@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKay231
 - 👀 I’m interested in programming/coding in java language.
-- 🌱 I’m currently learning java SpringBoot
+- 🌱 I’m currently learning java SpringBoot.
 - 💞️ I’m looking to collaborate with the great minds here on GIT and learn from them.
 - 📫 How to reach me https://www.linkedin.com/in/aditya-k-b94361226/
 
