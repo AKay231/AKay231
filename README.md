@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKay231
+- 👋 Hi, my name is Kumar!!
 - 👀 I’m interested in programming/coding in java language.
 - 🌱 I’m currently learning java SpringBoot.
 - 💞️ I’m looking to collaborate with the great minds here on GIT and learn from them.
