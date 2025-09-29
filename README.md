@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQHZXadyQox-aA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1605626250783?e=2147483647&v=beta&t=tgOOzLCNpczdhRaZgwCo50IDFAyW-33EysgS8lOqEfw)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A Certified Data Analyst</h3>
+<h3 align="center">Working as a SOC Analyst L1</h3>
 <img align="right" alt="Analsyt" width="400" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg?w=900">
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
