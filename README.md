@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Working as a SOC Analyst L1</h3>
 <img align="right" alt="Analsyt" width="400" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg?w=900">
-- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about **Ask me about threat detection, incident response, SIEM dashboards… or why SOC analysts drink more logs than coffee.**
 
 - 📫 How to reach me **adityaskkumar@gmail.com**
 
