@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **adityaskkumar@gmail.com**
 
-- ⚡ Fun fact **"Precise the Data, Powerful the Decision"**
+- ⚡ Fun fact **"SOC analysts drink logs more than coffee."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
